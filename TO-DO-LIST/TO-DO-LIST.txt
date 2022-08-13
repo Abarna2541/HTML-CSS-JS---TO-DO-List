@@ -1,0 +1,5 @@
+This project is a TO-DO-LIST.
+
+HTML,CSS,JS are used in this project.
+
+Here you add,edit,delete and maintain your task in the dailybases.
